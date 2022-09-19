@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-image: linear-gradient(to right, rgb(231, 244, 238) , rgb(243, 134, 24));
+    height: 50px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+}
+.flex-container h1{
+    float: left;
+    font-size: 20px;
+    margin-right: 1190px;
+    margin-bottom: 20px;
+    margin-top: 13px;
+}
+
+.flex-container li{
+    font-family: sans-serif;  
+    margin: 20px;
+    color: rgb(110, 13, 13);
+    font-size: 20px;
+    list-style-type:none;
+}
+.flex-container a:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+
+figure{
+    height: 200px;
+}
+#background{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.AJtTP5mJrEMJbx29Su7TCQHaEK&pid=Api&P=0");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+img{
+ 
+    width:200px;
+    height:200px;
+    margin: 0px 0px 0px 100px;
+
+}
+main{
+    background-image: linear-gradient(to right, rgb(231, 244, 238) , rgb(239, 226, 213));    
+    display:flex;
+    flex-direction:column;
+    padding:40px 40px 5px 40px;
+    height: 679px;
+    max-width: 100%;
+   
+}
+section{
+    font-size: 16px;
+    font-family: sans-serif;
+    margin:17px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+   
+}
+#Work{
+    height: 400px;
+}
+
+#About-Me h2{
+border-right: solid black 3px;
+width: 273px;
+padding: 3px;
+text-align: center;
+line-height: 27px;
+}
+#Work h2{
+border-right: solid black 3px;
+width: 155px;
+padding: 10px;
+text-align: center;
+line-height: 355px;
+
+}
+#Contact-Me h2{
+border-right: solid black 3px;
+width: 154px;
+padding: 10px;
+text-align: center;
+line-height: 95px;
+}
+    
+P{
+    margin-left: 35px;
+}
+
+ul{
+    margin-left:35px;
+    display: flex;
+    flex-direction: row; 
+}
+li{
+    margin: 50px;
+    color: rgb(110, 13, 13);
+    list-style-type:none;
+}
+
+figcaption{
+    text-align: center;
+    margin-left: 80px;
+}
+#larger-img{
+    width: 325px;
+    height: 379px;
+}
+
+#Contact-Me ul li{
+    font-size: 30px;
+}
