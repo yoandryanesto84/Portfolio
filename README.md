@@ -5,7 +5,7 @@ The page was built taking in considerations  some good practices like: **semanti
 The page shows the projects that i have worked on. I also mention  projects that i facilitated in my current position in the company mentioned. I created a section which has  my contact information.
 
 ## Expectation 
-I feel more interest in the dynamic part of Full Stack Development area. the prefer working with java script and its frame work and  libraries. I might specialize in back-end.
+I feel more interest in the dynamic part of Full Stack Development area. I rather working with java script and its frame work and  libraries. I might specialize in back-end.
 
 
 ## Mock-up
