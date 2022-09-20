@@ -6,26 +6,25 @@
 nav{
     background-image: linear-gradient(to right, rgb(231, 244, 238) , rgb(243, 134, 24));
     height: 50px;
+    /* display: flex;
+    flex-wrap: wrap; */
 }
 
 .flex-container{
-    display: flex;
-    flex-direction: row;
-    justify-content:flex-end;
+   float:right;
 }
-.flex-container h1{
-    float: left;
+ h1{
+    float: left; 
+    width: 400px;
     font-size: 20px;
-    margin-right: 1190px;
-    margin-bottom: 20px;
-    margin-top: 13px;
-}
+    margin: 13px;
+ }
 
 .flex-container li{
     font-family: sans-serif;  
     margin: 20px;
     color: rgb(110, 13, 13);
-    font-size: 20px;
+    font-size: 20px;s
     list-style-type:none;
 }
 .flex-container a:hover{
